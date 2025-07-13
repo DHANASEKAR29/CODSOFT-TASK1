@@ -26,7 +26,7 @@ java "Number Game"
 📸 Screenshot:
 
 ✏ Author
-HARINISRI2907
+DHANASEKAR29
 
 📄 License
 This project is for educational purposes.
